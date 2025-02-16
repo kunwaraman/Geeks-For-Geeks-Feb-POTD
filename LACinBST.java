@@ -17,7 +17,7 @@ public class LACinBST {
 
 
     class Solution {
-       
+
             // your code here.
             Node LCA(Node root, Node n1, Node n2) {
                 // your code here.
