@@ -4,7 +4,7 @@ time complexity: O(n)
 space complexity: O(n)
  */
 public class ValidParenthesis {
-    int n = s.length();
+   
     public static boolean valid(String s){
     Stack<Character> stack = new Stack<>();
         for(char ch:s.toCharArray()){
