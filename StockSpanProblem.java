@@ -1,4 +1,4 @@
-import java.uti.*;
+import java.util.*;
 /*
 time complexity: O(n)
 space complexity: O(n)
